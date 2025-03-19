@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "preparemyexam",
+    "slug": "snack-8387be14-8751-4736-b82d-ceaae938b817",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jitenkumar.snack8387be1487514736b82dceaae938b817"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3aab6583-97eb-4037-a7f8-ed23edcc7f0a"
+      }
+    }
+  }
+}
